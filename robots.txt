@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://garrett-eaton.github.io/resume-site/sitemap.xml
+Sitemap: https://eaton.dev/sitemap.xml
